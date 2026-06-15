@@ -17,7 +17,7 @@
 - 
 ## Projects
 
-- [Fraud Detection Using Machine Learning](https://github.com/supriya-kanaparthi/Fraud-Detection)
+- [Fraud Detection Using Machine Learning](https://github.com/kanaparthi-supriya/Fraud-Detection)
 
 - [Android App Market Analysis](https://github.com/kanaparthi-supriya/Android-App-Market-Analysis)
 
